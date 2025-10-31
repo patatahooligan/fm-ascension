@@ -59,3 +59,15 @@ how to obtain it legally based on where you live.
   Ultimate Great Moth. This is because Meter B. Dragon is an iconic card
   from the vanilla game, whereas PUGM is not a card you would normally
   use to finish the game.
+
+## License
+
+The decklists (all deck.csv files) are unchanged from the original game
+and not owned by me. Their inclusion is fair use for demonstration
+purposes; they are not required for the mod to be applied with fmde.
+
+The drop lists (all .csv files with "drop" in their name) and this
+README file are original work and distributed under the [CC BY-SA
+4.0][2] license.
+
+[2]: https://creativecommons.org/licenses/by-sa/4.0/
