@@ -8,6 +8,24 @@ spirit of the original game as possible.
 Ascension is currently incomplete. The current version of the mod might
 not 100% achieve the stated goals.
 
+## Building
+
+This mod is written for use with [fmde][1]. See fmde's documentation for
+setting it up and using it. To apply the mod run
+
+```bash
+fmde apply \
+    path/to/rom.bin \
+    path/to/ascension-repo/ \
+    path/to/save/mod.bin
+```
+
+The ROM file is *not* included here. It is proprietary software that
+would be illegal to distribute in many countries. You have to figure out
+how to obtain it legally based on where you live.
+
+[1]: https://github.com/patatahooligan/fmde
+
 ## Changes and rationale
 
 - All 722 cards are collectible. This is a widely desired feature with
